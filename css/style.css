@@ -4,6 +4,15 @@ table {
   margin: 0px auto;
 }
 
+thead {
+  background-color: #4a4a4a;
+  color: #fff;
+  font-family: 'Barlow', sans-serif;
+  font-weight: 100;
+  font-size: 16px;
+}
+
+
 .todoHeader {
   font-family: 'Barlow', sans-serif;
   font-weight: 500;
@@ -13,4 +22,27 @@ table {
   text-align: center;
   width: 500px;
   margin-bottom: 25px;
+}
+
+.newTodoInput{
+  height: 34px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: 15px;
+  width: 60%;
+}
+
+.addTodoInputWrapper {
+  margin-left:22%; /* with more time, I would find a better method to center the input */
+}
+
+button.btn.btn-default:hover {
+  background-color: #64d0cc;
+  color:#fff;
 }
