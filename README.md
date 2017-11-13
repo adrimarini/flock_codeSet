@@ -3,7 +3,7 @@
 ## Problem 1
 
 ### Getting running locally
-- This is a basic HTML/ CSS app. To see it locally on your machine, simply clone or fork this repo. For a step by step on how to for a repo, see this link: [click me](https://help.github.com/articles/fork-a-repo/)
+- This is a basic HTML/ CSS app. To see it locally on your machine, simply clone or fork this repo. For a step by step on how to fork a repo, see this link: [click me](https://help.github.com/articles/fork-a-repo/)
 
 ### Approach
 - Instructions specified to make this app using only HTML and CSS (non-interactive), so I used a basic table with static HTML for each todo item.
