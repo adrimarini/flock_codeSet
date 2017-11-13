@@ -12,6 +12,14 @@ thead {
   font-size: 16px;
 }
 
+.table-hover>tbody>tr:hover {
+  background-color: rgba(100, 208, 204, 0.41) !important;
+  border: 2px solid #64d0cc !important;
+}
+
+input::placeholder {
+  color:#64d0cc;
+}
 
 .todoHeader {
   font-family: 'Barlow', sans-serif;
